@@ -1,0 +1,5 @@
+BGfix = Inflexible plant with fixed flow-rate of biogas to chemical island
+BGSY  = Flexible plant with gas storages and variable load of chemical island sections
+
+d refers to short-term cost scenario for renewables and battery
+d2 refers to long-term cost scenario for renewables and battery

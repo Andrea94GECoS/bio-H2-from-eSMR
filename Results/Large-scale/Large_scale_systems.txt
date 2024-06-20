@@ -1,0 +1,2 @@
+"Output_BGSY_big.xlsm" contains the results of large-scale systems in the three locations and for both inflexible and flexible system, with short-term cost assumptions for reneasbles and battery. 
+"Output_BGSY_2big.xlsm" contains the results of large-scale systems in the three locations and for both inflexible and flexible system, with long-term cost assumptions for reneasbles and battery. 
